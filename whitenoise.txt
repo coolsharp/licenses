@@ -1,2 +1,128 @@
-하얀소리 프로는 사용자의 어떠한 개인정보도 취득하지 않습니다.
-WhiteNoise Pro does not acquire any of the user's personal data.
+================================================================
+개인정보처리방침 / Privacy Policy
+하얀소리 (WhiteNoise)
+최종 업데이트: 2026년 3월 | Last Updated: March 2026
+================================================================
+
+
+[ 한국어 ]
+
+1. 개요
+
+하얀소리(이하 '앱')는 사용자의 개인정보를 일절 수집, 저장,
+처리 또는 제3자와 공유하지 않습니다. 본 앱은 사용자의 프라이버시를
+완전히 존중하며, 어떠한 개인 식별 정보도 취득하지 않습니다.
+
+
+2. 수집하는 정보
+
+하얀소리는 다음 항목을 포함하여 어떠한 개인정보도 수집하지 않습니다.
+
+- 이름, 이메일 주소, 전화번호 등 신원 정보
+- 위치 정보 (GPS 또는 IP 기반)
+- 기기 식별자 또는 광고 ID
+- 사용 행태 데이터 또는 분석 정보
+- 결제 정보 또는 금융 데이터
+- 쿠키 또는 유사한 추적 기술
+
+
+3. 제3자 서비스
+
+본 앱은 어떠한 제3자 분석 도구, 광고 네트워크, 또는 데이터 수집 SDK도
+포함하고 있지 않습니다. 따라서 제3자를 통한 사용자 데이터 수집이
+발생하지 않습니다.
+
+
+4. 인터넷 연결
+
+하얀소리는 인터넷 연결 없이도 완전히 작동합니다.
+앱은 외부 서버로 데이터를 전송하지 않습니다.
+
+
+5. 아동 개인정보 보호
+
+본 앱은 13세 미만 아동으로부터 의도적으로 개인정보를 수집하지 않습니다.
+앱 자체가 어떠한 개인정보도 수집하지 않으므로, 연령에 관계없이
+모든 사용자의 프라이버시가 보호됩니다.
+
+
+6. 개인정보처리방침 변경
+
+본 방침이 변경될 경우, 앱 내 또는 구글 플레이 스토어 앱 페이지를 통해
+공지합니다. 변경된 방침은 게시 즉시 효력이 발생합니다.
+
+
+7. 문의
+
+개인정보처리방침에 관한 문의사항이 있으시면 아래로 연락하시기 바랍니다.
+
+이메일: coolsharp@gmail.com
+
+구글 플레이 스토어 개발자 페이지를 통해서도 문의하실 수 있습니다.
+
+
+================================================================
+
+
+[ English ]
+
+1. Overview
+
+WhiteNoise ("the App") does not collect, store, process, or share
+any personal information of its users with third parties. This App fully
+respects user privacy and does not acquire any personally identifiable
+information.
+
+
+2. Information We Collect
+
+WhiteNoise does not collect any personal data, including but not
+limited to:
+
+- Identity information such as name, email address, or phone number
+- Location data (GPS or IP-based)
+- Device identifiers or advertising IDs
+- Usage behavior data or analytics
+- Payment information or financial data
+- Cookies or similar tracking technologies
+
+
+3. Third-Party Services
+
+The App does not include any third-party analytics tools, advertising
+networks, or data collection SDKs. Therefore, no user data collection
+occurs through third parties.
+
+
+4. Internet Connectivity
+
+WhiteNoise works fully offline without an internet connection.
+The App does not transmit any data to external servers.
+
+
+5. Children's Privacy
+
+The App does not intentionally collect personal information from children
+under the age of 13. Since the App collects no personal data at all,
+the privacy of all users is protected regardless of age.
+
+
+6. Changes to This Privacy Policy
+
+If this policy is updated, we will notify users via in-app notice or
+through the App's Google Play Store page. Changes take effect immediately
+upon publication.
+
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: coolsharp@gmail.com
+
+You may also reach us through the Developer Page on the Google Play Store.
+
+
+================================================================
+© 2026 하얀소리 / WhiteNoise. All rights reserved.
+================================================================
