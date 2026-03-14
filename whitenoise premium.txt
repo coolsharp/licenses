@@ -24,35 +24,70 @@
 - 사용 행태 데이터 또는 분석 정보
 - 결제 정보 또는 금융 데이터
 - 쿠키 또는 유사한 추적 기술
+- 건강 및 피트니스 데이터 (수면 패턴, 심박수, 신체 활동 등)
 
 
-3. 제3자 서비스
+3. 건강 데이터(Health Data)에 관한 안내
+
+하얀소리 프리미엄은 수면, 집중, 휴식 등 건강 및 웰빙 목적으로 활용될 수
+있는 앱입니다. 그러나 본 앱은 다음 사항을 명확히 밝힙니다.
+
+- 본 앱은 어떠한 건강 데이터(수면 시간, 심박수, 스트레스 지수,
+  신체 활동 등)도 수집하거나 접근하지 않습니다.
+- 기기의 건강 관련 센서, Google Fit, Samsung Health 또는 이에 준하는
+  플랫폼 건강 API에 접근하지 않습니다.
+- 앱 사용으로부터 건강 관련 추론 정보를 생성하거나 저장하지 않습니다.
+- 건강 데이터를 제3자와 공유하거나 판매하지 않습니다.
+
+본 앱의 기능은 전적으로 기기 내(로컬)에서 동작하며, 외부로 어떠한
+데이터도 전송되지 않습니다.
+
+
+4. 제3자 서비스
 
 본 앱은 어떠한 제3자 분석 도구, 광고 네트워크, 또는 데이터 수집 SDK도
 포함하고 있지 않습니다. 따라서 제3자를 통한 사용자 데이터 수집이
 발생하지 않습니다.
 
 
-4. 인터넷 연결
+5. 인터넷 연결
 
 하얀소리 프리미엄은 인터넷 연결 없이도 완전히 작동합니다.
 앱은 외부 서버로 데이터를 전송하지 않습니다.
 
 
-5. 아동 개인정보 보호
+6. 데이터 보관 기간 및 삭제 방법
+
+본 앱은 사용자 데이터를 외부 서버에 수집하거나 저장하지 않으므로,
+별도의 서버 측 보관 기간이 존재하지 않습니다.
+
+앱 사용 중 생성되는 설정 정보(예: 사운드 볼륨, 타이머 설정 등)는
+오직 사용자의 기기 내부에만 저장되며, 외부로 전송되지 않습니다.
+
+사용자는 언제든지 아래 방법으로 앱 관련 데이터를 완전히 삭제할 수 있습니다.
+
+- 기기에서 앱을 삭제(제거)하면, 앱과 관련된 모든 로컬 데이터가
+  함께 삭제됩니다.
+- Android 기기의 경우, 설정 > 앱 > 하얀소리 프리미엄 > 저장공간 >
+  '데이터 삭제'를 통해 앱 데이터를 초기화할 수 있습니다.
+
+데이터 삭제와 관련한 문의는 아래 연락처로 문의하시기 바랍니다.
+
+
+7. 아동 개인정보 보호
 
 본 앱은 13세 미만 아동으로부터 의도적으로 개인정보를 수집하지 않습니다.
 앱 자체가 어떠한 개인정보도 수집하지 않으므로, 연령에 관계없이
 모든 사용자의 프라이버시가 보호됩니다.
 
 
-6. 개인정보처리방침 변경
+8. 개인정보처리방침 변경
 
 본 방침이 변경될 경우, 앱 내 또는 구글 플레이 스토어 앱 페이지를 통해
 공지합니다. 변경된 방침은 게시 즉시 효력이 발생합니다.
 
 
-7. 문의
+9. 문의
 
 개인정보처리방침에 관한 문의사항이 있으시면 아래로 연락하시기 바랍니다.
 
@@ -85,36 +120,77 @@ limited to:
 - Usage behavior data or analytics
 - Payment information or financial data
 - Cookies or similar tracking technologies
+- Health and fitness data (sleep patterns, heart rate, physical activity, etc.)
 
 
-3. Third-Party Services
+3. Health Data Disclosure
+
+WhiteNoise Premium is an app intended to support sleep, focus, relaxation,
+and general well-being. However, the App makes the following clear:
+
+- The App does not collect or access any health data, including but not
+  limited to sleep duration, heart rate, stress indicators, or physical
+  activity data.
+- The App does not access any health-related sensors or platform health
+  APIs, including Google Fit, Samsung Health, or equivalent services.
+- The App does not generate or store any health-related inferences derived
+  from app usage.
+- The App does not share or sell any health-related data to third parties.
+
+All functionality of the App operates entirely on-device (locally), and
+no data of any kind is transmitted to external servers.
+
+
+4. Third-Party Services
 
 The App does not include any third-party analytics tools, advertising
 networks, or data collection SDKs. Therefore, no user data collection
 occurs through third parties.
 
 
-4. Internet Connectivity
+5. Internet Connectivity
 
 WhiteNoise Premium works fully offline without an internet connection.
 The App does not transmit any data to external servers.
 
 
-5. Children's Privacy
+6. Data Retention and Deletion
+
+Since the App does not collect or store user data on any external server,
+there is no server-side data retention period.
+
+Any settings data generated during use (e.g., volume levels, timer
+preferences) are stored solely on the user's local device and are never
+transmitted externally.
+
+Users may delete all App-related data at any time using the following
+methods:
+
+- Uninstalling the App from your device will permanently delete all
+  locally stored App data.
+- On Android devices, you may also navigate to Settings > Apps >
+  WhiteNoise Premium > Storage > "Clear Data" to reset App data without
+  uninstalling.
+
+For any questions related to data deletion, please contact us using the
+information provided below.
+
+
+7. Children's Privacy
 
 The App does not intentionally collect personal information from children
 under the age of 13. Since the App collects no personal data at all,
 the privacy of all users is protected regardless of age.
 
 
-6. Changes to This Privacy Policy
+8. Changes to This Privacy Policy
 
 If this policy is updated, we will notify users via in-app notice or
 through the App's Google Play Store page. Changes take effect immediately
 upon publication.
 
 
-7. Contact Us
+9. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
